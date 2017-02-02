@@ -17,7 +17,7 @@
             user-select: none;
             border: 1px solid transparent;
             border-radius: 2px;
-			font-family: 'Roboto', sans-serif;
+			font-family: 'Impact', sans-serif;
 			box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12); left: 20px;
 			transition:all 0.3s ease;
 			    line-height: 1.42857143;
@@ -25,10 +25,10 @@
 		.fps1:hover {
             display: inline-block;
             padding: 6px 12px;
-			background-color: #3F51B5;
+			background-color: #5D6D7E;
             margin-bottom: 0;
 			color: #fff;
-			font-family: 'Roboto', sans-serif;
+			font-family: 'Impact', sans-serif;
             font-size: 15px;
             font-weight: 300;
             text-align: center;
@@ -49,7 +49,7 @@
         }
 		.botserver {
 		padding: 0 8px;
-		font-family: Ubuntu;
+		font-family: Impact;
 		font-size: 24px;
 		color: #000;
 		background-color: #3F51B5;
@@ -59,7 +59,7 @@
 		}
 				.botserver:hover {
 		padding: 0 8px;
-		font-family: Ubuntu;
+		font-family: Impact;
 		font-size: 24px;
 		color: #fff;
 		background-color: #000;
